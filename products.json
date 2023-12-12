@@ -6,7 +6,7 @@
         "star": 4,
         "reviews": 123,
         "prevPrice": "140",
-        "newPrice": "200",
+        "newPrice": "145",
         "company": "Nintendo",
         "category": "Simulation",
         "id": 1
@@ -17,7 +17,7 @@
         "star": 4,
         "reviews": 123,
         "prevPrice": "140",
-        "newPrice": "200",
+        "newPrice": "150",
         "company": "Ubisoft",
         "category": "Action",
         "id": 2
@@ -28,8 +28,8 @@
         "title": "Fortnite",
         "star": 4,
         "reviews": 123,
-        "prevPrice": "140",
-        "newPrice": "200",
+        "prevPrice": "120",
+        "newPrice": "160",
         "company": "Ubisoft",
         "category": "Action",
         "id": 3
@@ -53,7 +53,7 @@
         "star": 4,
         "reviews": 123,
         "prevPrice": "140",
-        "newPrice": "200",
+        "newPrice": "210",
         "company": "Ubisoft",
         "category": "Simulation",
         "id": 5
@@ -65,7 +65,7 @@
         "star": 4,
         "reviews": 123,
         "prevPrice": "140",
-        "newPrice": "200",
+        "newPrice": "240",
         "company": "Nintendo",
         "category": "Racing",
         "id": 6
@@ -77,7 +77,7 @@
         "star": 4,
         "reviews": 123,
         "prevPrice": "140",
-        "newPrice": "200",
+        "newPrice": "250",
         "company": "Ubisoft",
         "category": "Racing",
         "id": 7
@@ -112,8 +112,8 @@
         "title": "God of War",
         "star": 4,
         "reviews": 123,
-        "prevPrice": "140",
-        "newPrice": "200",
+        "prevPrice": "90",
+        "newPrice": "180",
         "company": "Sony",
         "category": "RPG",
         "id": 10
@@ -124,8 +124,8 @@
         "title": "Resident Evil 4",
         "star": 4,
         "reviews": 123,
-        "prevPrice": "140",
-        "newPrice": "200",
+        "prevPrice": "20",
+        "newPrice": "40",
         "company": "Sony",
         "category": "Action",
         "id": 11
@@ -160,8 +160,8 @@
         "title": "Pokemon Go",
         "star": 4,
         "reviews": 123,
-        "prevPrice": "140",
-        "newPrice": "200",
+        "prevPrice": "120",
+        "newPrice": "120",
         "company": "Nintendo",
         "category": "RPG",
         "id": 14
@@ -173,7 +173,7 @@
         "star": 4,
         "reviews": 123,
         "prevPrice": "140",
-        "newPrice": "200",
+        "newPrice": "150",
         "company": "sony",
         "category": "Simualation",
         "id": 15
@@ -196,8 +196,8 @@
         "title": "Pac-Man",
         "star": 4,
         "reviews": 123,
-        "prevPrice": "140",
-        "newPrice": "200",
+        "prevPrice": "20",
+        "newPrice": "90",
         "company": "Sony",
         "category": "Racing",
         "id": 17
@@ -208,8 +208,8 @@
         "title": "Call of Duty 4: Modern Warfare",
         "star": 4,
         "reviews": 123,
-        "prevPrice": "140",
-        "newPrice": "200",
+        "prevPrice": "120",
+        "newPrice": "145",
         "company": "Ubisoft",
         "category": "Racing",
         "id": 18
@@ -221,7 +221,7 @@
         "star": 4,
         "reviews": 123,
         "prevPrice": "140",
-        "newPrice": "200",
+        "newPrice": "144",
         "company": "Sony",
         "category": "Simulation",
         "id": 19

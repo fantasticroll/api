@@ -1,0 +1,58 @@
+{
+    "department": [
+        {
+            "name": "Công Nghệ Thông Tin",
+            "id": "1"
+        },
+        {
+            "name": "Kinh Tế",
+            "id": "2"
+        },
+        {
+            "name": "Cơ Bản",
+            "id": "3"
+        },
+        {
+            "name": "Nhân sự",
+            "id": "4"
+        }
+    ],
+    "teacher": [
+        {
+            "name": "hà",
+            "avatar": "https://res.cloudinary.com/dikortveg/image/upload/v1699709258/ydq2uscoedfpe6aubn95.jpg",
+            "dob": "1998-08-08T17:00:00.000Z",
+            "gender": "Male",
+            "email": "habanh64@gmail.com",
+            "department": {
+                "name": "Công Nghệ Thông Tin",
+                "id": "1"
+            },
+            "id": "1"
+        },
+        {
+            "name": "Lunea Trevino",
+            "avatar": "https://res.cloudinary.com/dikortveg/image/upload/v1699706383/nwtt3jthciagrqwbqay6.jpg",
+            "dob": "2011-01-19T17:00:00.000Z",
+            "gender": "Male",
+            "email": "cybilysof@mailinator.com",
+            "department": {
+                "name": "Kinh Tế",
+                "id": "2"
+            },
+            "id": "3"
+        },
+        {
+            "name": "Renee Benson",
+            "avatar": "https://res.cloudinary.com/dikortveg/image/upload/v1699706679/bnrvm43rxg7gvagonywn.jpg",
+            "dob": "1982-06-14T17:00:00.000Z",
+            "gender": "Male",
+            "email": "lawisalo@mailinator.com",
+            "department": {
+                "name": "Công Nghệ Thông Tin",
+                "id": "1"
+            },
+            "id": "4"
+        }
+    ]
+}
