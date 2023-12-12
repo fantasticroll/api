@@ -1,0 +1,18 @@
+{"catogories":[
+    {
+        "id": 1,
+        "name": "Action"
+    },
+    {
+        "id": 2,
+        "name": "Racing"
+    },
+    {
+        "id": 3,
+        "name": "RPG"
+    },
+    {
+        "id": 4,
+        "name": "Simalation"
+    }
+]}
