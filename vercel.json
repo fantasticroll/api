@@ -2,7 +2,7 @@
     "functions": {
       "api/server.js": {
         "memory": 1024,
-        "includeFiles": "products.json"
+        "includeFiles": ["products.json","catorogies.json","companies.json"]
       }
     },
     "rewrites": [
